@@ -9,7 +9,7 @@ git clone git@github.com:zmerrychristmas/laravel-translate-google.git
 `
 2. check out branch `features/translator`
 3. composer install
-`compose install`
+`composer install`
 4. setup api-key
 Inside package path: 'package\huybin\translator\src\config\laravel_translator', you will add your's google cloud translator api key.
 ## How it check

@@ -1,0 +1,13 @@
+{
+    "name": "huybin/translator",
+    "description": "Simple plugin using google translator for translate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Huy Bin",
+            "email": "huybinh.ad@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
